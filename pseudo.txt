@@ -1,0 +1,40 @@
+
+set the largest number as 0 
+user input number
+while the user number input isn't 0 
+     if the user number is largest then 
+            make user number now largest number 
+     print the largest number 
+
+
+
+request user's name 
+    make user's name as first_name 
+print first_name, "Hello, World"
+
+
+
+request user for number 
+while the number isn't 0 
+      set sum as sum + number
+      set count as count +1 
+set average as sum / count 
+    if the number isn't 0 
+print average
+
+
+
+read grocery list file
+sort the grocery list file 
+     set items with quantity 0 as left to buy 
+print left to buy   
+
+
+
+request X, Y
+    S = X + Y
+    A = S / 2
+    P = X × Y
+print S, A, P  
+
+
